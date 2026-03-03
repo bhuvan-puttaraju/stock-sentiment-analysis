@@ -100,7 +100,3 @@ stock-sentiment-analysis/
 
 **Bhuvan Puttaraju**
 Data Science Enthusiast
-
-
-
-If you want next, I can help you make this look even more premium for placements 🔥
